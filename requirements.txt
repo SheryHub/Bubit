@@ -1,0 +1,5 @@
+pyaudiowpatch 
+websocket-client 
+numpy 
+scipy 
+pyinstaller
